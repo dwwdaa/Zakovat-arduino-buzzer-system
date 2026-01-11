@@ -19,7 +19,7 @@ A DIY quiz buzzer system for games like **Svoyak** (Jeopardy-style) and **Brain 
 
 > [!WARNING]
 > **Display Size & Power Consumption:**  
-> Displays larger than 1.8" may require external power supply. Arduino Mega has a 500mA current limit via USB.
+> Displays larger than 1.8" may require external power supply. Arduino Mega has a 200mA current limit via USB.
 >
 > **Current Calculation (with 220Ω resistors):**
 > - LED forward voltage: ~2V
